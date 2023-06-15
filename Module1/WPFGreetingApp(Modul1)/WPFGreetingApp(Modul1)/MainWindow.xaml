@@ -1,0 +1,15 @@
+﻿<Window x:Class="WPFGreetingApp_Modul1_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFGreetingApp_Modul1_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="txtUserName" HorizontalAlignment="Left" Margin="83,132,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="178" Height="30" SelectionOpacity="0.2"/>
+        <Button x:Name="btnShowGreeting" Content="Show greeting" HorizontalAlignment="Left" Margin="278,132,0,0" VerticalAlignment="Top" Height="30" Width="105" Click="btnShowGreeting_Click"/>
+        <Label x:Name="lblUserGreeting" Content="" HorizontalAlignment="Left" Margin="423,134,0,0" VerticalAlignment="Top" Height="42" Width="199" Background="Transparent"/>
+
+    </Grid>
+</Window>

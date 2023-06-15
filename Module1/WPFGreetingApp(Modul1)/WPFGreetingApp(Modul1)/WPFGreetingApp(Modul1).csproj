@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>WPFGreetingApp_Modul1_</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ClassLibrary2">
+      <HintPath>..\..\ClassLibrary2\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

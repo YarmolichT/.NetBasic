@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsGreetingUser(Modul1)", "WindowsFormsGreetingUser(Modul1)\WindowsFormsGreetingUser(Modul1).csproj", "{8A1C7A37-2972-411E-BD57-A450EF3813AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A1C7A37-2972-411E-BD57-A450EF3813AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1C7A37-2972-411E-BD57-A450EF3813AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1C7A37-2972-411E-BD57-A450EF3813AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1C7A37-2972-411E-BD57-A450EF3813AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F6EEF69-01F3-422A-87F4-534AF1FB9D73}
+	EndGlobalSection
+EndGlobal
