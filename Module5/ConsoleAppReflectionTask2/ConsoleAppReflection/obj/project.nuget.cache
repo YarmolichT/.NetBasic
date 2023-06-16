@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3KAn5Sl5B2jL+U0IiP54RyQ7ej/xSyQwuPbxfed6f1A/SmFzIhHqbpTHlANsK+EwOIJ01+V4ka6FOaPM+P7+pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tatsiana_Yarmolich\\Documents\\.NetBasic\\.NetBasic\\Module5\\ConsoleAppReflectionTask2\\ConsoleAppReflection\\ConsoleAppReflection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tatsiana_Yarmolich\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tatsiana_Yarmolich\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tatsiana_Yarmolich\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tatsiana_Yarmolich\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tatsiana_Yarmolich\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tatsiana_Yarmolich\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
