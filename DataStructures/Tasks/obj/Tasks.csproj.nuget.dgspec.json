@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tatsiana_Yarmolich\\source\\repos\\DataStructures\\Tasks\\Tasks.csproj": {}
+    "C:\\Users\\Tatsiana_Yarmolich\\Documents\\.NetBasic\\.NetBasic\\DataStructures\\Tasks\\Tasks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tatsiana_Yarmolich\\source\\repos\\DataStructures\\Tasks\\Tasks.csproj": {
+    "C:\\Users\\Tatsiana_Yarmolich\\Documents\\.NetBasic\\.NetBasic\\DataStructures\\Tasks\\Tasks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tatsiana_Yarmolich\\source\\repos\\DataStructures\\Tasks\\Tasks.csproj",
+        "projectUniqueName": "C:\\Users\\Tatsiana_Yarmolich\\Documents\\.NetBasic\\.NetBasic\\DataStructures\\Tasks\\Tasks.csproj",
         "projectName": "Tasks",
-        "projectPath": "C:\\Users\\Tatsiana_Yarmolich\\source\\repos\\DataStructures\\Tasks\\Tasks.csproj",
+        "projectPath": "C:\\Users\\Tatsiana_Yarmolich\\Documents\\.NetBasic\\.NetBasic\\DataStructures\\Tasks\\Tasks.csproj",
         "packagesPath": "C:\\Users\\Tatsiana_Yarmolich\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tatsiana_Yarmolich\\source\\repos\\DataStructures\\Tasks\\obj\\",
+        "outputPath": "C:\\Users\\Tatsiana_Yarmolich\\Documents\\.NetBasic\\.NetBasic\\DataStructures\\Tasks\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
