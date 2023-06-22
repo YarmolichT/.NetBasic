@@ -1,0 +1,15 @@
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\1Kata\StringSum\StringSum\bin\Debug\net6.0\StringSum.exe
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\1Kata\StringSum\StringSum\bin\Debug\net6.0\StringSum.deps.json
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\1Kata\StringSum\StringSum\bin\Debug\net6.0\StringSum.runtimeconfig.json
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\1Kata\StringSum\StringSum\bin\Debug\net6.0\StringSum.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\1Kata\StringSum\StringSum\bin\Debug\net6.0\StringSum.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\1Kata\StringSum\StringSum\obj\Debug\net6.0\StringSum.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\1Kata\StringSum\StringSum\obj\Debug\net6.0\StringSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\1Kata\StringSum\StringSum\obj\Debug\net6.0\StringSum.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\1Kata\StringSum\StringSum\obj\Debug\net6.0\StringSum.AssemblyInfo.cs
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\1Kata\StringSum\StringSum\obj\Debug\net6.0\StringSum.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\1Kata\StringSum\StringSum\obj\Debug\net6.0\StringSum.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\1Kata\StringSum\StringSum\obj\Debug\net6.0\refint\StringSum.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\1Kata\StringSum\StringSum\obj\Debug\net6.0\StringSum.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\1Kata\StringSum\StringSum\obj\Debug\net6.0\StringSum.genruntimeconfig.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\1Kata\StringSum\StringSum\obj\Debug\net6.0\ref\StringSum.dll

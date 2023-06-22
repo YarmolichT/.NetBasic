@@ -1,0 +1,15 @@
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\3Kata\OddEven3Kata\OddEven3Kata\bin\Debug\net6.0\OddEven3Kata.exe
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\3Kata\OddEven3Kata\OddEven3Kata\bin\Debug\net6.0\OddEven3Kata.deps.json
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\3Kata\OddEven3Kata\OddEven3Kata\bin\Debug\net6.0\OddEven3Kata.runtimeconfig.json
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\3Kata\OddEven3Kata\OddEven3Kata\bin\Debug\net6.0\OddEven3Kata.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\3Kata\OddEven3Kata\OddEven3Kata\bin\Debug\net6.0\OddEven3Kata.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\3Kata\OddEven3Kata\OddEven3Kata\obj\Debug\net6.0\OddEven3Kata.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\3Kata\OddEven3Kata\OddEven3Kata\obj\Debug\net6.0\OddEven3Kata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\3Kata\OddEven3Kata\OddEven3Kata\obj\Debug\net6.0\OddEven3Kata.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\3Kata\OddEven3Kata\OddEven3Kata\obj\Debug\net6.0\OddEven3Kata.AssemblyInfo.cs
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\3Kata\OddEven3Kata\OddEven3Kata\obj\Debug\net6.0\OddEven3Kata.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\3Kata\OddEven3Kata\OddEven3Kata\obj\Debug\net6.0\OddEven3Kata.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\3Kata\OddEven3Kata\OddEven3Kata\obj\Debug\net6.0\refint\OddEven3Kata.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\3Kata\OddEven3Kata\OddEven3Kata\obj\Debug\net6.0\OddEven3Kata.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\3Kata\OddEven3Kata\OddEven3Kata\obj\Debug\net6.0\OddEven3Kata.genruntimeconfig.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\3Kata\OddEven3Kata\OddEven3Kata\obj\Debug\net6.0\ref\OddEven3Kata.dll

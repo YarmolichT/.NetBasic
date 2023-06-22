@@ -1,0 +1,15 @@
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\2Kata\CalcStatsKata\CalcStatsKata\bin\Debug\net6.0\CalcStatsKata.exe
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\2Kata\CalcStatsKata\CalcStatsKata\bin\Debug\net6.0\CalcStatsKata.deps.json
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\2Kata\CalcStatsKata\CalcStatsKata\bin\Debug\net6.0\CalcStatsKata.runtimeconfig.json
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\2Kata\CalcStatsKata\CalcStatsKata\bin\Debug\net6.0\CalcStatsKata.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\2Kata\CalcStatsKata\CalcStatsKata\bin\Debug\net6.0\CalcStatsKata.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\2Kata\CalcStatsKata\CalcStatsKata\obj\Debug\net6.0\CalcStatsKata.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\2Kata\CalcStatsKata\CalcStatsKata\obj\Debug\net6.0\CalcStatsKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\2Kata\CalcStatsKata\CalcStatsKata\obj\Debug\net6.0\CalcStatsKata.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\2Kata\CalcStatsKata\CalcStatsKata\obj\Debug\net6.0\CalcStatsKata.AssemblyInfo.cs
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\2Kata\CalcStatsKata\CalcStatsKata\obj\Debug\net6.0\CalcStatsKata.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\2Kata\CalcStatsKata\CalcStatsKata\obj\Debug\net6.0\CalcStatsKata.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\2Kata\CalcStatsKata\CalcStatsKata\obj\Debug\net6.0\refint\CalcStatsKata.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\2Kata\CalcStatsKata\CalcStatsKata\obj\Debug\net6.0\CalcStatsKata.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\2Kata\CalcStatsKata\CalcStatsKata\obj\Debug\net6.0\CalcStatsKata.genruntimeconfig.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Module7\2Kata\CalcStatsKata\CalcStatsKata\obj\Debug\net6.0\ref\CalcStatsKata.dll

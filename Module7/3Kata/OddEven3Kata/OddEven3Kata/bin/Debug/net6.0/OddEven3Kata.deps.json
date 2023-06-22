@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OddEven3Kata/1.0.0": {
+        "runtime": {
+          "OddEven3Kata.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OddEven3Kata/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
