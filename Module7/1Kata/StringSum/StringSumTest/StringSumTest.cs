@@ -37,7 +37,6 @@ namespace StringSumTest
             string SumOfString = StringSumKata.Sum(num1, num2);
 
             Assert.AreEqual(expected, SumOfString);
-
         }
 
         [TestMethod]
@@ -49,8 +48,5 @@ namespace StringSumTest
 
             Assert.AreEqual(expected, SumOfString);
         }
-
-
-
     }
 }

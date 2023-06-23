@@ -56,14 +56,6 @@
             int firstNum = int.Parse(num1);
             int secondNum = int.Parse(num2);
 
-         /*   for (int i = 2; i <= firstNum; i++)
-            {
-                if (firstNum % i == 0 && firstNum == i)
-                {
-                    break;
-                }
-            }*/
-
             for (int i = 2; i < firstNum; i++)
             {
                 if (firstNum % i == 0)
@@ -79,7 +71,6 @@
                     secondNum = 0;
                 }
             }
-
             return (firstNum + secondNum).ToString();
         }
     }
