@@ -1,0 +1,10 @@
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\SQLModule\SQL_Module8\SQL_Module8\bin\Debug\SQL_Module8.dacpac
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\SQLModule\SQL_Module8\SQL_Module8\bin\Debug\SQL_Module8.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\SQLModule\SQL_Module8\SQL_Module8\bin\Debug\SQL_Module8.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\SQLModule\SQL_Module8\SQL_Module8\obj\Debug\SQL_Module8.sqlproj.AssemblyReference.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\SQLModule\SQL_Module8\SQL_Module8\obj\Debug\Model.xml
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\SQLModule\SQL_Module8\SQL_Module8\obj\Debug\refactor.xml
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\SQLModule\SQL_Module8\SQL_Module8\obj\Debug\postdeploy.sql
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\SQLModule\SQL_Module8\SQL_Module8\obj\Debug\predeploy.sql
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\SQLModule\SQL_Module8\SQL_Module8\obj\Debug\SQL_Module8.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\SQLModule\SQL_Module8\SQL_Module8\obj\Debug\SQL_Module8.pdb
