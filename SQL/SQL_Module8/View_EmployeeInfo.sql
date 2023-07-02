@@ -4,8 +4,8 @@
                         ELSE EmployeeName
                         END) AS EmployeeFullName,
 
-     CONCAT(AddressJoined.ZipCode, '_', AddressJoined.State, '_', AddressJoined.City, '_',AddressJoined.Street) as EmployeeFullAddress,
-     CONCAT( CompanyName,'-',Position) as EmployeeCompanyInfo
+     CONCAT(AddressJoined.ZipCode, '_', AddressJoined.State, ' ', AddressJoined.City, '-',AddressJoined.Street) as EmployeeFullAddress,
+     CONCAT( CompanyName,' ',Position) as EmployeeCompanyInfo
 
      FROM Employee
      JOIN Person as PersonJoined ON Employee.PersonId = PersonJoined.Id_Person 

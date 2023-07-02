@@ -1,17 +1,20 @@
 ﻿CREATE PROCEDURE [dbo].[Insert_EmployeeInfo]
-					(@FirstName NVARCHAR(50),
-					@LastName NVARCHAR(50),
+					(@EmployeeName NVARCHAR(50) = '',
+					@FirstName NVARCHAR(50) = '',
+					@LastName NVARCHAR(50) = '',
 					@CompanyName NVARCHAR(50),
-					@Position NVARCHAR(30),
+					@Position NVARCHAR(30) = '',
 					@Street NVARCHAR(50),
-					@City NVARCHAR(20),
-					@State NVARCHAR(50),
-					@ZipCode NVARCHAR(50))
+					@City NVARCHAR(20) = '',
+					@State NVARCHAR(50) = '',
+					@ZipCode NVARCHAR(50)= '')
 AS
 	BEGIN
-
 		DECLARE @letter_expression NVARCHAR(10) SET @letter_expression = '[A-Za-z]%'
 
+		SET @EmployeeName = (CASE WHEN (@EmployeeName IS NULL OR TRIM(@EmployeeName) LIKE '') THEN ' ' 
+								ELSE @EmployeeName END)
+		
 		SET @FirstName = (CASE WHEN (@FirstName IS NULL OR TRIM(@FirstName) LIKE '') THEN ' ' 
 								ELSE @FirstName END)
 
@@ -54,7 +57,6 @@ AS
 						@person_identity, 
 						@CompanyName, 
 						@Position, 
-					
-					CONCAT(@FirstName, ' ', @LastName))
+						@EmployeeName)				
 		END
 END

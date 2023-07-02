@@ -1,6 +1,7 @@
 ﻿USE SQL_Module8
  
-DECLARE @FirstName NVARCHAR(50),
+DECLARE @EmployeeName NVARCHAR(50),
+		@FirstName NVARCHAR(50),
 		@LastName NVARCHAR(50),
 		@CompanyName NVARCHAR(50),
 		@Position NVARCHAR(30),
@@ -9,14 +10,15 @@ DECLARE @FirstName NVARCHAR(50),
 		@State NVARCHAR(50),
 		@ZipCode NVARCHAR(50)		
 
-SET		@FirstName ='YArm'
-SET     @LastName ='TAts'
+SET		@EmployeeName = 'YT'
+SET		@FirstName ='Yarmolich'
+SET     @LastName ='Tatsiana'
 SET     @CompanyName ='ASD'
 SET		@Position ='Dev'
-SET		@Street ='qwer'
+SET		@Street ='BestStreet'
 SET		@City ='Minak'
-SET		@State ='Pinsk'
-SET		@ZipCode ='123'
+SET		@State ='MinskState'
+SET		@ZipCode ='12389'
  
 EXEC Insert_EmployeeInfo @FirstName , @LastName, @CompanyName, @Position, @Street,@City, @State,@ZipCode
  
