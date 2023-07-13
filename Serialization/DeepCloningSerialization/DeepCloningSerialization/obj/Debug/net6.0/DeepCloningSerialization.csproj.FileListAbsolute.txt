@@ -1,0 +1,15 @@
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepCloningSerialization\DeepCloningSerialization\bin\Debug\net6.0\DeepCloningSerialization.exe
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepCloningSerialization\DeepCloningSerialization\bin\Debug\net6.0\DeepCloningSerialization.deps.json
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepCloningSerialization\DeepCloningSerialization\bin\Debug\net6.0\DeepCloningSerialization.runtimeconfig.json
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepCloningSerialization\DeepCloningSerialization\bin\Debug\net6.0\DeepCloningSerialization.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepCloningSerialization\DeepCloningSerialization\bin\Debug\net6.0\DeepCloningSerialization.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepCloningSerialization\DeepCloningSerialization\obj\Debug\net6.0\DeepCloningSerialization.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepCloningSerialization\DeepCloningSerialization\obj\Debug\net6.0\DeepCloningSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepCloningSerialization\DeepCloningSerialization\obj\Debug\net6.0\DeepCloningSerialization.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepCloningSerialization\DeepCloningSerialization\obj\Debug\net6.0\DeepCloningSerialization.AssemblyInfo.cs
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepCloningSerialization\DeepCloningSerialization\obj\Debug\net6.0\DeepCloningSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepCloningSerialization\DeepCloningSerialization\obj\Debug\net6.0\DeepCloningSerialization.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepCloningSerialization\DeepCloningSerialization\obj\Debug\net6.0\refint\DeepCloningSerialization.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepCloningSerialization\DeepCloningSerialization\obj\Debug\net6.0\DeepCloningSerialization.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepCloningSerialization\DeepCloningSerialization\obj\Debug\net6.0\DeepCloningSerialization.genruntimeconfig.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepCloningSerialization\DeepCloningSerialization\obj\Debug\net6.0\ref\DeepCloningSerialization.dll

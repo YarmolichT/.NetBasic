@@ -1,0 +1,15 @@
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\CustomBinarySerialization\CustomBinarySerialization\obj\Debug\net6.0\CustomBinarySerialization.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\CustomBinarySerialization\CustomBinarySerialization\obj\Debug\net6.0\CustomBinarySerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\CustomBinarySerialization\CustomBinarySerialization\obj\Debug\net6.0\CustomBinarySerialization.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\CustomBinarySerialization\CustomBinarySerialization\obj\Debug\net6.0\CustomBinarySerialization.AssemblyInfo.cs
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\CustomBinarySerialization\CustomBinarySerialization\obj\Debug\net6.0\CustomBinarySerialization.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\CustomBinarySerialization\CustomBinarySerialization\bin\Debug\net6.0\CustomBinarySerialization.exe
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\CustomBinarySerialization\CustomBinarySerialization\bin\Debug\net6.0\CustomBinarySerialization.deps.json
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\CustomBinarySerialization\CustomBinarySerialization\bin\Debug\net6.0\CustomBinarySerialization.runtimeconfig.json
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\CustomBinarySerialization\CustomBinarySerialization\bin\Debug\net6.0\CustomBinarySerialization.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\CustomBinarySerialization\CustomBinarySerialization\bin\Debug\net6.0\CustomBinarySerialization.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\CustomBinarySerialization\CustomBinarySerialization\obj\Debug\net6.0\CustomBinarySerialization.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\CustomBinarySerialization\CustomBinarySerialization\obj\Debug\net6.0\refint\CustomBinarySerialization.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\CustomBinarySerialization\CustomBinarySerialization\obj\Debug\net6.0\CustomBinarySerialization.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\CustomBinarySerialization\CustomBinarySerialization\obj\Debug\net6.0\CustomBinarySerialization.genruntimeconfig.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\CustomBinarySerialization\CustomBinarySerialization\obj\Debug\net6.0\ref\CustomBinarySerialization.dll

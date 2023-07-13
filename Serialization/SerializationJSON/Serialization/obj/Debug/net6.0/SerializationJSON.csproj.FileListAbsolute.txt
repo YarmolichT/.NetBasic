@@ -1,0 +1,15 @@
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationJSON\Serialization\bin\Debug\net6.0\SerializationJSON.exe
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationJSON\Serialization\bin\Debug\net6.0\SerializationJSON.deps.json
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationJSON\Serialization\bin\Debug\net6.0\SerializationJSON.runtimeconfig.json
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationJSON\Serialization\bin\Debug\net6.0\SerializationJSON.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationJSON\Serialization\bin\Debug\net6.0\SerializationJSON.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationJSON\Serialization\obj\Debug\net6.0\SerializationJSON.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationJSON\Serialization\obj\Debug\net6.0\SerializationJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationJSON\Serialization\obj\Debug\net6.0\SerializationJSON.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationJSON\Serialization\obj\Debug\net6.0\SerializationJSON.AssemblyInfo.cs
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationJSON\Serialization\obj\Debug\net6.0\SerializationJSON.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationJSON\Serialization\obj\Debug\net6.0\SerializationJSON.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationJSON\Serialization\obj\Debug\net6.0\refint\SerializationJSON.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationJSON\Serialization\obj\Debug\net6.0\SerializationJSON.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationJSON\Serialization\obj\Debug\net6.0\SerializationJSON.genruntimeconfig.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationJSON\Serialization\obj\Debug\net6.0\ref\SerializationJSON.dll

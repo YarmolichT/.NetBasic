@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Department xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DepartmentName>MSTD</DepartmentName>
+  <Employees>
+    <Employee>
+      <EmployeeName>Ivan Ivanov</EmployeeName>
+    </Employee>
+    <Employee>
+      <EmployeeName>Yarmolich Tatsiana</EmployeeName>
+    </Employee>
+  </Employees>
+</Department>
