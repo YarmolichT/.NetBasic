@@ -13,3 +13,6 @@ C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\Serializ
 C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationJSON\Serialization\obj\Debug\net6.0\SerializationJSON.pdb
 C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationJSON\Serialization\obj\Debug\net6.0\SerializationJSON.genruntimeconfig.cache
 C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationJSON\Serialization\obj\Debug\net6.0\ref\SerializationJSON.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationJSON\Serialization\bin\Debug\net6.0\SerializationLibrary.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationJSON\Serialization\bin\Debug\net6.0\SerializationLibrary.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationJSON\Serialization\obj\Debug\net6.0\SerializationJSON.csproj.CopyComplete

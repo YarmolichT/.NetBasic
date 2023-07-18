@@ -1,0 +1,12 @@
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationLibrary\SerializationLibrary\bin\Debug\net6.0\SerializationLibrary.deps.json
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationLibrary\SerializationLibrary\bin\Debug\net6.0\SerializationLibrary.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationLibrary\SerializationLibrary\bin\Debug\net6.0\SerializationLibrary.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationLibrary\SerializationLibrary\obj\Debug\net6.0\SerializationLibrary.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationLibrary\SerializationLibrary\obj\Debug\net6.0\SerializationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationLibrary\SerializationLibrary\obj\Debug\net6.0\SerializationLibrary.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationLibrary\SerializationLibrary\obj\Debug\net6.0\SerializationLibrary.AssemblyInfo.cs
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationLibrary\SerializationLibrary\obj\Debug\net6.0\SerializationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationLibrary\SerializationLibrary\obj\Debug\net6.0\SerializationLibrary.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationLibrary\SerializationLibrary\obj\Debug\net6.0\refint\SerializationLibrary.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationLibrary\SerializationLibrary\obj\Debug\net6.0\SerializationLibrary.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\SerializationLibrary\SerializationLibrary\obj\Debug\net6.0\ref\SerializationLibrary.dll

@@ -3,10 +3,10 @@
   <DepartmentName>MSTD</DepartmentName>
   <Employees>
     <Employee>
-      <EmployeeName>Ivan Ivanov</EmployeeName>
+      <EmployeeName>Yarmolich Tatsiana</EmployeeName>
     </Employee>
     <Employee>
-      <EmployeeName>Yarmolich Tatsiana</EmployeeName>
+      <EmployeeName>Ivan Ivanov</EmployeeName>
     </Employee>
   </Employees>
 </Department>

@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="SerializationLibrary">
+      <HintPath>..\..\SerializationLibrary\SerializationLibrary\bin\Debug\net6.0\SerializationLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

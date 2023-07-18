@@ -1,6 +1,5 @@
-﻿using System.Text;
+﻿using SerializationLibrary;
 using System.Text.Json;
-using System.Text.Json.Serialization;
 
 namespace Serialization
 {
@@ -10,17 +9,17 @@ namespace Serialization
 
         static void Main(string[] args)
         {
-            var empl = new Employee { EmployeeName = "Yarmolich Tatsiana" };
-            var empl1 = new Employee { EmployeeName = "Ivan Ivanov" };
+            var firstEmployee = new Employee { EmployeeName = "Yarmolich Tatsiana" };
+            var secondEmployee = new Employee { EmployeeName = "Ivan Ivanov" };
            
-            List <Employee> EmplList = new List<Employee> { empl1, empl };
+            List <Employee> employees = new List<Employee> { firstEmployee, secondEmployee };
 
             var department = new Department() ;
 
             department.DepartmentName = "MSTD";
-            department.Employees = EmplList;          
+            department.Employees = employees;          
 
-            Console.WriteLine($"Before serialization: {department.GetListOfValues()}" );
+            Console.WriteLine($"Before serialization: {department}" );
 
             string json = JsonSerializer.Serialize(department);
             File.WriteAllText(FileName, json);
@@ -29,37 +28,7 @@ namespace Serialization
             var jsonString1 = File.ReadAllText(FileName);
             Department deserializedEmployee = JsonSerializer.Deserialize<Department>(jsonString1);  
 
-            Console.WriteLine($"After deserialization Name: {deserializedEmployee.GetListOfValues()}" );           
-        }
-
-        public class Employee {
-            
-            [JsonInclude]
-            [JsonPropertyName("Employee Name")]
-            public string EmployeeName;
-
-        }
-
-        public class Department {
-           
-            [JsonPropertyName("Department Name")]
-            public string DepartmentName { get; set; }
-          
-            [JsonPropertyName("Employees")]
-            public List<Employee> Employees { get; set; }
-
-            public string GetListOfValues()
-            {
-                StringBuilder sb = new StringBuilder();
-                sb.AppendLine($"Department name: {DepartmentName}");
-
-                foreach (var employee in Employees)
-                {
-                    sb.AppendLine($"Employee name: {employee.EmployeeName}");
-                }
-
-                return sb.ToString();
-            }
-        }
+            Console.WriteLine($"After deserialization Name: {deserializedEmployee}" );           
+        }       
     }
 }

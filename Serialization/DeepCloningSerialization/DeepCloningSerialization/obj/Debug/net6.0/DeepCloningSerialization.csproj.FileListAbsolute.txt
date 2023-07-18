@@ -13,3 +13,6 @@ C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepClon
 C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepCloningSerialization\DeepCloningSerialization\obj\Debug\net6.0\DeepCloningSerialization.pdb
 C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepCloningSerialization\DeepCloningSerialization\obj\Debug\net6.0\DeepCloningSerialization.genruntimeconfig.cache
 C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepCloningSerialization\DeepCloningSerialization\obj\Debug\net6.0\ref\DeepCloningSerialization.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepCloningSerialization\DeepCloningSerialization\bin\Debug\net6.0\SerializationLibrary.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepCloningSerialization\DeepCloningSerialization\bin\Debug\net6.0\SerializationLibrary.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\DeepCloningSerialization\DeepCloningSerialization\obj\Debug\net6.0\DeepCloningSerialization.csproj.CopyComplete

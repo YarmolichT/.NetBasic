@@ -13,3 +13,6 @@ C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\Serializ
 C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\Serialization\Serialization\obj\Debug\net6.0\Serialization.pdb
 C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\Serialization\Serialization\obj\Debug\net6.0\Serialization.genruntimeconfig.cache
 C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\Serialization\Serialization\obj\Debug\net6.0\ref\Serialization.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\Serialization\Serialization\bin\Debug\net6.0\SerializationLibrary.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\Serialization\Serialization\bin\Debug\net6.0\SerializationLibrary.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\Serialization\Serialization\Serialization\obj\Debug\net6.0\Serialization.csproj.CopyComplete

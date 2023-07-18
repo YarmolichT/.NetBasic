@@ -23,9 +23,9 @@ namespace CustomBinarySerialization
             stream.Close();
 
             Stream streamReader = new FileStream("Binary.bin", FileMode.Open, FileAccess.Read, FileShare.Read);
-            Person dedeserializedDepartment = (Person)formatter.Deserialize(streamReader);
+            Person deserializedDepartment = (Person)formatter.Deserialize(streamReader);
 
-            Console.WriteLine($"After serialization:\n{dedeserializedDepartment.GetListOfValues()}");
+            Console.WriteLine($"After serialization:\n{deserializedDepartment.GetListOfValues()}");
         }
     }
 }
