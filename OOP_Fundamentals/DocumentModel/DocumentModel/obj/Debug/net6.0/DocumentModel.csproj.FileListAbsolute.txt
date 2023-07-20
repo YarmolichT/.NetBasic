@@ -1,0 +1,15 @@
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\OOP_Fundamentals\DocumentModel\DocumentModel\bin\Debug\net6.0\DocumentModel.exe
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\OOP_Fundamentals\DocumentModel\DocumentModel\bin\Debug\net6.0\DocumentModel.deps.json
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\OOP_Fundamentals\DocumentModel\DocumentModel\bin\Debug\net6.0\DocumentModel.runtimeconfig.json
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\OOP_Fundamentals\DocumentModel\DocumentModel\bin\Debug\net6.0\DocumentModel.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\OOP_Fundamentals\DocumentModel\DocumentModel\bin\Debug\net6.0\DocumentModel.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\OOP_Fundamentals\DocumentModel\DocumentModel\obj\Debug\net6.0\DocumentModel.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\OOP_Fundamentals\DocumentModel\DocumentModel\obj\Debug\net6.0\DocumentModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\OOP_Fundamentals\DocumentModel\DocumentModel\obj\Debug\net6.0\DocumentModel.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\OOP_Fundamentals\DocumentModel\DocumentModel\obj\Debug\net6.0\DocumentModel.AssemblyInfo.cs
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\OOP_Fundamentals\DocumentModel\DocumentModel\obj\Debug\net6.0\DocumentModel.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\OOP_Fundamentals\DocumentModel\DocumentModel\obj\Debug\net6.0\DocumentModel.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\OOP_Fundamentals\DocumentModel\DocumentModel\obj\Debug\net6.0\refint\DocumentModel.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\OOP_Fundamentals\DocumentModel\DocumentModel\obj\Debug\net6.0\DocumentModel.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\OOP_Fundamentals\DocumentModel\DocumentModel\obj\Debug\net6.0\DocumentModel.genruntimeconfig.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\OOP_Fundamentals\DocumentModel\DocumentModel\obj\Debug\net6.0\ref\DocumentModel.dll
