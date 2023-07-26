@@ -52,7 +52,7 @@ namespace DocumentModel
             return result.FirstOrDefault();
         }
 
-        public Type GetItemType(string typeName) {
+        private Type GetItemType(string typeName) {
 
             var modelDll = GetDirectoryFiles(ModelDll).FirstOrDefault();
             var assembly = Assembly.LoadFrom(modelDll);
@@ -69,15 +69,15 @@ namespace DocumentModel
             return null;
         }
 
-        public List<string> GetDirectoryFiles(string fileType) { 
+        private List<string> GetDirectoryFiles(string fileType) { 
 
             var root = Environment.CurrentDirectory;
             var directoryFiles = Directory.GetFiles(root, string.Concat("*", fileType)).ToList();
 
             return directoryFiles;
-        } 
+        }
 
-        public string CreateFileName(string typeName, int itemId) {
+        private string CreateFileName(string typeName, int itemId) {
 
             var sb = new StringBuilder();
             sb.Append(typeName);

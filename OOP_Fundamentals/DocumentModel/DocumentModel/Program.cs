@@ -1,4 +1,5 @@
-﻿using DocumentModel.LibraryModel;
+﻿using DocumentModel.DocumentService;
+using Document = DocumentModel.LibraryModel.Document;
 
 namespace DocumentModel
 {
@@ -13,65 +14,44 @@ namespace DocumentModel
         }
 
         static void Main(string[] args)
-        {
-            Book book = new()
+        {      
+            IRepository<Document> repository = new FileRepository<Document>();
+
+            DocumentServices documentServices = new DocumentServices(repository);
+
+            Console.WriteLine("Please, select number of operation: " +
+                "1. Search  2. Add  3. Close window ");
+
+            switch (Console.ReadLine())
             {
-                Id = 1,
-                ISBN = 10000,
-                Title = "My first Book",
-                Authors = new List<string>() { "Tatsiana", "Ivan1" },
-                NumberOfPages = 13,
-                DatePublished = DateTime.Now,
-                Publisher = "publisher"
-            };
+                case "1":
+                    Console.WriteLine("Enter id for Search");
+                 
+                    int IdOfDocument = Convert.ToInt32(Console.ReadLine());
+                    var filteredFiles = new List<Document>
+                    {
+                         documentServices._repository.SearchItemById(IdOfDocument)
+                    };
 
-            LocalizedBook localized = new()
-            {
-                Id = 2,
-                ISBN = 2000,
-                Title = "My first Localized Book",
-                Authors = new List<string>() { "Tatsiana", "Ivan2" },
-                NumberOfPages = 13,
-                DatePublished = DateTime.Now,
-                Publisher = "publisher",
-                CountryOfLocalization = "Bel",
-                LocalPublisher = "BelPublisher"
-            };
+                    ShowItems(filteredFiles);                  
 
-            Patent patent = new()
-            {
-                Id = 3,
-                Title = "My first patent",
-                Authors = new List<string>() { "Tatsiana", "Ivan3" },
-                DatePublished = DateTime.Today,
-                ExpirationDate = DateTime.Today
-            };
+                    break;
 
-            Magazine magazine = new()
-            {
-                Id = 4,
-                Title = "My first magazine",
-                DatePublished = DateTime.Now,
-                ReleaseNumber = "14.100.1",
-                Publisher = "publisher"
-            };
+                case "2":
+                    Console.WriteLine("Enter data to create Magazine using template: id;title;releaseNumber;publisher;");
+                   
+                    string[] enteredData = Console.ReadLine().Split(new char[] { ';' });
+                    int IdForMagazine = Convert.ToInt32(enteredData[0]);
+                    var magazine = documentServices.ValidateDataForMagazine(IdForMagazine, enteredData[1], enteredData[2], enteredData[3]);
+                    
+                    documentServices._repository.SaveItem(magazine);
 
-            IRepository<Document> fileRepository = new FileRepository<Document>();
+                    break;
 
-            fileRepository.SaveItem(book);
-            fileRepository.SaveItem(localized);
-            fileRepository.SaveItem(patent);
-            fileRepository.SaveItem(magazine);
-
-            var filteredFiles = new List<Document>
-            {
-                fileRepository.SearchItemById(book.Id),
-                fileRepository.SearchItemById(localized.Id),
-                fileRepository.SearchItemById(patent.Id),
-                fileRepository.SearchItemById(magazine.Id)
-            };
-
-            ShowItems(filteredFiles);
+                case "3":
+                    Console.ReadKey(true);               
+                    break;                
+            }       
         }
     }
 }

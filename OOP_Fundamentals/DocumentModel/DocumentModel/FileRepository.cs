@@ -4,7 +4,7 @@ namespace DocumentModel
 {
     public class FileRepository<T> : IRepository<T> where T : Document 
     {
-        private IProvider<T> _fileProvider;
+        private readonly IProvider<T> _fileProvider;
 
         public FileRepository() {
 
