@@ -1,0 +1,13 @@
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\ADO.Net\CL_Structure\CL_Structure\bin\Debug\CL_Structure.dll.config
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\ADO.Net\CL_Structure\CL_Structure\bin\Debug\CL_Structure.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\ADO.Net\CL_Structure\CL_Structure\bin\Debug\CL_Structure.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\ADO.Net\CL_Structure\CL_Structure\bin\Debug\EntityFramework.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\ADO.Net\CL_Structure\CL_Structure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\ADO.Net\CL_Structure\CL_Structure\bin\Debug\EntityFramework.xml
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\ADO.Net\CL_Structure\CL_Structure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\ADO.Net\CL_Structure\CL_Structure\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\ADO.Net\CL_Structure\CL_Structure\obj\Debug\CL_Structure.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\ADO.Net\CL_Structure\CL_Structure\obj\Debug\CL_Structure.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\ADO.Net\CL_Structure\CL_Structure\obj\Debug\CL_Structure.csproj.CopyComplete
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\ADO.Net\CL_Structure\CL_Structure\obj\Debug\CL_Structure.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\ADO.Net\CL_Structure\CL_Structure\obj\Debug\CL_Structure.pdb
