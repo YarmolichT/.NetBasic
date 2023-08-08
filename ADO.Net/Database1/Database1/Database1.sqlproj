@@ -67,6 +67,10 @@
     <Build Include="SelectByStatus.sql" />
     <Build Include="SelectByYear.sql" />
     <Build Include="SelectByProductId.sql" />
+    <Build Include="BulkDeleteByMonth.sql" />
+    <Build Include="BulkDeleteByProductId.sql" />
+    <Build Include="BulkDeleteByStatus.sql" />
+    <Build Include="BulkDeleteByYear.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ScriptToCheck.sql" />

@@ -11,10 +11,13 @@
 */
 
 GO
-:r .\SelectByStatus.sql
+:r .\BulkDeleteByMonth.sql
 
 GO
-:r .\SelectByProductId.sql
+:r .\BulkDeleteByStatus.sql
 
 GO
-:r .\SelectByYear.sql
+:r .\BulkDeleteByProductId.sql
+
+GO
+:r .\BulkDeleteByYear.sql

@@ -80,6 +80,15 @@ namespace ConsoleApp
 
             var orderFiltered3 = orderRepository.SelectByFilter("Year", 2023);
             ShowOrders(orderFiltered3);
+
+            orderRepository.DeleteBulk("Status", 3);
+            orderRepository.DeleteBulk("Product", 1);
+            orderRepository.DeleteBulk("Month", 2);
+            orderRepository.DeleteBulk("Year", 2025);
+
+            var resultAfterDelete = orderRepository.SelectAll();
+            Console.WriteLine("After Bulk Delete:");
+            ShowOrders(resultAfterDelete);
         }
 
         private static void ShowProducts(List<ProductEntity> products)

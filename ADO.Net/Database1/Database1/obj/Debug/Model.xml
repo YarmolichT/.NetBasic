@@ -82,6 +82,194 @@
 			</Relationship>
 			<Annotation Type="SqlInlineConstraintAnnotation" Disambiguator="4" />
 		</Element>
+		<Element Type="SqlProcedure" Name="[dbo].[BulkDeleteByMonth]">
+			<Property Name="BodyScript">
+				<Value><![CDATA[
+	DELETE FROM [dbo].[Orders]
+	WHERE MONTH(CreatedDate) = @month]]></Value>
+			</Property>
+			<Property Name="IsAnsiNullsOn" Value="True" />
+			<Relationship Name="BodyDependencies">
+				<Entry>
+					<References Name="[dbo].[Orders]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Orders].[CreatedDate]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[BulkDeleteByMonth].[@month]" />
+				</Entry>
+			</Relationship>
+			<Relationship Name="Parameters">
+				<Entry>
+					<Element Type="SqlSubroutineParameter" Name="[dbo].[BulkDeleteByMonth].[@month]">
+						<Relationship Name="Type">
+							<Entry>
+								<Element Type="SqlTypeSpecifier">
+									<Relationship Name="Type">
+										<Entry>
+											<References ExternalSource="BuiltIns" Name="[int]" />
+										</Entry>
+									</Relationship>
+								</Element>
+							</Entry>
+						</Relationship>
+					</Element>
+				</Entry>
+			</Relationship>
+			<Relationship Name="Schema">
+				<Entry>
+					<References ExternalSource="BuiltIns" Name="[dbo]" />
+				</Entry>
+			</Relationship>
+			<Annotation Type="SysCommentsObjectAnnotation">
+				<Property Name="Length" Value="124" />
+				<Property Name="StartLine" Value="1" />
+				<Property Name="StartColumn" Value="1" />
+				<Property Name="HeaderContents" Value="CREATE PROCEDURE [dbo].[BulkDeleteByMonth]&#xD;&#xA;&#x9;@month INT&#xD;&#xA;AS" />
+			</Annotation>
+		</Element>
+		<Element Type="SqlProcedure" Name="[dbo].[BulkDeleteByProductId]">
+			<Property Name="BodyScript">
+				<Value><![CDATA[
+	DELETE FROM [dbo].[Orders]
+	WHERE Product_Id = @product_id]]></Value>
+			</Property>
+			<Property Name="IsAnsiNullsOn" Value="True" />
+			<Relationship Name="BodyDependencies">
+				<Entry>
+					<References Name="[dbo].[Orders]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Orders].[Product_Id]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[BulkDeleteByProductId].[@product_id]" />
+				</Entry>
+			</Relationship>
+			<Relationship Name="Parameters">
+				<Entry>
+					<Element Type="SqlSubroutineParameter" Name="[dbo].[BulkDeleteByProductId].[@product_id]">
+						<Relationship Name="Type">
+							<Entry>
+								<Element Type="SqlTypeSpecifier">
+									<Relationship Name="Type">
+										<Entry>
+											<References ExternalSource="BuiltIns" Name="[int]" />
+										</Entry>
+									</Relationship>
+								</Element>
+							</Entry>
+						</Relationship>
+					</Element>
+				</Entry>
+			</Relationship>
+			<Relationship Name="Schema">
+				<Entry>
+					<References ExternalSource="BuiltIns" Name="[dbo]" />
+				</Entry>
+			</Relationship>
+			<Annotation Type="SysCommentsObjectAnnotation">
+				<Property Name="Length" Value="130" />
+				<Property Name="StartLine" Value="1" />
+				<Property Name="StartColumn" Value="1" />
+				<Property Name="HeaderContents" Value="CREATE PROCEDURE [dbo].[BulkDeleteByProductId]&#xD;&#xA;&#x9;@product_id INT&#xD;&#xA;AS" />
+			</Annotation>
+		</Element>
+		<Element Type="SqlProcedure" Name="[dbo].[BulkDeleteByStatus]">
+			<Property Name="BodyScript">
+				<Value><![CDATA[
+	DELETE FROM [dbo].[Orders]
+	WHERE Status = @status]]></Value>
+			</Property>
+			<Property Name="IsAnsiNullsOn" Value="True" />
+			<Relationship Name="BodyDependencies">
+				<Entry>
+					<References Name="[dbo].[Orders]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Orders].[Status]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[BulkDeleteByStatus].[@status]" />
+				</Entry>
+			</Relationship>
+			<Relationship Name="Parameters">
+				<Entry>
+					<Element Type="SqlSubroutineParameter" Name="[dbo].[BulkDeleteByStatus].[@status]">
+						<Relationship Name="Type">
+							<Entry>
+								<Element Type="SqlTypeSpecifier">
+									<Relationship Name="Type">
+										<Entry>
+											<References ExternalSource="BuiltIns" Name="[int]" />
+										</Entry>
+									</Relationship>
+								</Element>
+							</Entry>
+						</Relationship>
+					</Element>
+				</Entry>
+			</Relationship>
+			<Relationship Name="Schema">
+				<Entry>
+					<References ExternalSource="BuiltIns" Name="[dbo]" />
+				</Entry>
+			</Relationship>
+			<Annotation Type="SysCommentsObjectAnnotation">
+				<Property Name="Length" Value="115" />
+				<Property Name="StartLine" Value="1" />
+				<Property Name="StartColumn" Value="1" />
+				<Property Name="HeaderContents" Value="CREATE PROCEDURE [dbo].[BulkDeleteByStatus]&#xD;&#xA;&#x9;@status INT&#xD;&#xA;AS" />
+			</Annotation>
+		</Element>
+		<Element Type="SqlProcedure" Name="[dbo].[BulkDeleteByYear]">
+			<Property Name="BodyScript">
+				<Value><![CDATA[
+	DELETE FROM [dbo].[Orders]
+	WHERE Year(CreatedDate) = @year]]></Value>
+			</Property>
+			<Property Name="IsAnsiNullsOn" Value="True" />
+			<Relationship Name="BodyDependencies">
+				<Entry>
+					<References Name="[dbo].[Orders]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[Orders].[CreatedDate]" />
+				</Entry>
+				<Entry>
+					<References Name="[dbo].[BulkDeleteByYear].[@year]" />
+				</Entry>
+			</Relationship>
+			<Relationship Name="Parameters">
+				<Entry>
+					<Element Type="SqlSubroutineParameter" Name="[dbo].[BulkDeleteByYear].[@year]">
+						<Relationship Name="Type">
+							<Entry>
+								<Element Type="SqlTypeSpecifier">
+									<Relationship Name="Type">
+										<Entry>
+											<References ExternalSource="BuiltIns" Name="[int]" />
+										</Entry>
+									</Relationship>
+								</Element>
+							</Entry>
+						</Relationship>
+					</Element>
+				</Entry>
+			</Relationship>
+			<Relationship Name="Schema">
+				<Entry>
+					<References ExternalSource="BuiltIns" Name="[dbo]" />
+				</Entry>
+			</Relationship>
+			<Annotation Type="SysCommentsObjectAnnotation">
+				<Property Name="Length" Value="120" />
+				<Property Name="StartLine" Value="1" />
+				<Property Name="StartColumn" Value="1" />
+				<Property Name="HeaderContents" Value="CREATE PROCEDURE [dbo].[BulkDeleteByYear]&#xD;&#xA;&#x9;@year INT&#xD;&#xA;AS" />
+			</Annotation>
+		</Element>
 		<Element Type="SqlForeignKeyConstraint" Name="[dbo].[FK_order_product]">
 			<Relationship Name="Columns">
 				<Entry>

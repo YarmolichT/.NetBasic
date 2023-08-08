@@ -164,5 +164,47 @@ namespace CL_Structure
                 }}
             };
         }
+
+        public void DeleteBulk(string arg, int value)
+        {
+            switch (arg.ToUpper())
+            {
+                case "STATUS":
+                    BulkDeleteTransaction("BulkDeleteByStatus", "@status", value);
+                    break;
+                case "PRODUCT":
+                    BulkDeleteTransaction("BulkDeleteByProductId", "@product_id", value);
+                    break;
+                case "MONTH":
+                    BulkDeleteTransaction("BulkDeleteByMonth", "@month", value);
+                    break;
+                case "YEAR":
+                    BulkDeleteTransaction("BulkDeleteByYear", "@year", value);
+                    break;
+            }
+        }
+
+        private void BulkDeleteTransaction(string procedureName, string parameterName, int value)
+        {
+
+            var command = ReturnSpCommand(procedureName, parameterName, value);
+
+            _sqlConnection.Open();
+
+            var transaction = _sqlConnection.BeginTransaction();
+            command.Transaction = transaction;
+
+            try
+            {
+                command.ExecuteNonQuery();
+                transaction.Commit();
+            }
+            catch (Exception ex)
+            {
+                transaction.Rollback();
+            }
+
+            _sqlConnection.Close();
+        }
     }
 }
