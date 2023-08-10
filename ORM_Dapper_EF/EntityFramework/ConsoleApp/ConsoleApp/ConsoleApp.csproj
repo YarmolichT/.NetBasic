@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CL_Structure_EF">
+      <HintPath>..\..\CL_Structure_EF\CL_Structure_EF\bin\Debug\net7.0\CL_Structure_EF.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
