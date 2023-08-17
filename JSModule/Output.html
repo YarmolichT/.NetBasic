@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Заголовок страницы</title>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<p>
+    <h3 id="varBMW"></h3>
+    <h3 id="result2"></h3>
+    <h3 id="result3"></h3>
+    <h3 id="result4"></h3>
+    <h3 id="result5"></h3>
+</p>
+
+</body>
+<script>
+       
+    let var1 = "I can eat bananas all day";
+    let result = var1.slice(9,17).toUpperCase();
+
+    alert(result);
+
+    let array = ["Saab", "Volvo", "BMW"];
+
+    let varBMW = array[2];
+
+    let array2 = ["Saab", "Volvo", "BMW"];
+    
+    array2.splice(0,1,"ElectroCar");
+    let result2 = array2;
+
+    let array3 = ["Saab", "Volvo", "BMW"];
+
+    array3.pop();
+    let result3 = array3;
+
+    let array4 = ["Saab", "Volvo", "BMW"];
+
+    array4.push("Audi");
+    let result4 = array4;
+
+    let array5 = ["Saab", "Volvo", "BMW"];
+
+    array5.splice(1,2, `${array[1]}_${array[2]} `);
+    let result5 = array5;
+
+    document.getElementById('varBMW').textContent = varBMW ;
+    document.getElementById('result2').textContent = result2 ;
+    document.getElementById('result3').textContent = result3 ;
+    document.getElementById('result4').textContent = result4 ;
+    document.getElementById('result5').textContent = result5 ;
+   
+</script>
+</html>
