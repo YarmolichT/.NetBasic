@@ -1,0 +1,15 @@
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\WebAPI\WebApplication3\NorthwindTraders.Data\bin\Debug\netcoreapp3.1\NorthwindTraders.Data.deps.json
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\WebAPI\WebApplication3\NorthwindTraders.Data\bin\Debug\netcoreapp3.1\NorthwindTraders.Data.runtimeconfig.json
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\WebAPI\WebApplication3\NorthwindTraders.Data\bin\Debug\netcoreapp3.1\NorthwindTraders.Data.runtimeconfig.dev.json
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\WebAPI\WebApplication3\NorthwindTraders.Data\bin\Debug\netcoreapp3.1\NorthwindTraders.Data.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\WebAPI\WebApplication3\NorthwindTraders.Data\bin\Debug\netcoreapp3.1\NorthwindTraders.Data.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\WebAPI\WebApplication3\NorthwindTraders.Data\obj\Debug\netcoreapp3.1\NorthwindTraders.Data.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\WebAPI\WebApplication3\NorthwindTraders.Data\obj\Debug\netcoreapp3.1\NorthwindTraders.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\WebAPI\WebApplication3\NorthwindTraders.Data\obj\Debug\netcoreapp3.1\NorthwindTraders.Data.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\WebAPI\WebApplication3\NorthwindTraders.Data\obj\Debug\netcoreapp3.1\NorthwindTraders.Data.AssemblyInfo.cs
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\WebAPI\WebApplication3\NorthwindTraders.Data\obj\Debug\netcoreapp3.1\NorthwindTraders.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\WebAPI\WebApplication3\NorthwindTraders.Data\obj\Debug\netcoreapp3.1\NorthwindTraders.Data.dll
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\WebAPI\WebApplication3\NorthwindTraders.Data\obj\Debug\netcoreapp3.1\NorthwindTraders.Data.pdb
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\WebAPI\WebApplication3\NorthwindTraders.Data\obj\Debug\netcoreapp3.1\NorthwindTraders.Data.genruntimeconfig.cache
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\WebAPI\WebApplication3\NorthwindTraders.Data\obj\Debug\netcoreapp3.1\NorthwindTraders.Data.Properties.Resources.resources
+C:\Users\Tatsiana_Yarmolich\Documents\.NetBasic\.NetBasic\WebAPI\WebApplication3\NorthwindTraders.Data\obj\Debug\netcoreapp3.1\NorthwindTraders.Data.csproj.GenerateResource.cache
